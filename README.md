@@ -1,2 +1,2 @@
 # SSL
-Este es el repositorio personal de Ezequiel Federico Diaz Trigo
+Repositorio personal de Ezequiel Federico Diaz Trigo
